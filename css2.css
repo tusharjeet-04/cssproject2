@@ -1,0 +1,107 @@
+.parent{
+    border:3px solid greenyellow;
+    margin:-7px;
+    background-image: url(./color.jpg);
+
+}
+
+.first{
+    border:2px solid red;
+    border-radius: 30px;
+    width:300px;
+    height:90px;
+    background-color:black;
+    color: white;
+    font-style: italic;
+    text-align: center;
+    margin: 1px 1px;
+
+}
+.second{
+    border:2px solid red;
+    border-radius: 30px;
+    width:300px;
+    height:60px;
+    background-color: black;
+    color: white;
+    font-style: italic;
+    text-align: center;
+    margin:-78px 0px 0px 180px;
+    position: relative;
+
+}
+.third{
+    border:2px solid red;
+    border-radius: 30px;
+    width:300px;
+    height:150px;
+    background-color: black;
+    color: white;
+    font-style: italic;
+    text-align: center;
+    margin:-84px 0px 0px 1020px;
+
+}
+.circle{
+    width:300px;
+    height:300px;
+    border-radius: 50%;
+    border:5px solid chocolate;
+    background-color: rgb(13, 231, 148);
+    color: black;
+    margin: 200px 0px 0px 50px;
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+}
+.form{
+    width:450px;
+    height:600px;
+    border:5px dashed brown;
+    margin:-450px 0px 0px 700px;
+    color:red;
+    text-align: center;
+    background-color: white;
+}
+.menu{
+    border:3px solid red;
+    width:300px;
+    height:30px;
+    border-radius: 30px;
+    background-color: black;
+    margin:60px 0px 0px 500px;
+    font-style: italic;
+    color: white;
+    text-align: center;
+    font-size: x-large;
+    padding: 15px;
+}
+.box{
+    text-align: center;
+    display: inline-block;
+    width:350px;
+    height:220px;
+    margin:10px 30px 10px 45px;
+    padding: 0%;
+    border:5px solid green;
+    border-radius: 20px;
+    font-weight: bold;
+    color:blue;
+    background-color: aqua;
+    
+}
+.boxx{
+    text-align: center;
+    display: inline-block;
+    width:350px;
+    height:300px;
+    margin:10px 30px 10px 45px;
+    padding: 0%;
+    border:5px solid green;
+    border-radius: 20px;
+    font-weight: bold;
+    color:blue;
+    background-color: aqua;
+    
+}
